@@ -52,7 +52,7 @@ OpenAPI를 이용한 도서 구매 사이트
     <tr>
       <td>
         <p align="center"> 2024.05.22 발표 </p>
-        <a href="https://youtu.be/ByeAqd8mwyg" target="_blank">
+        <a href="https://www.youtube.com/watch?v=k6BZldZTXMU" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/youtube.png" alt="YouTube Icon" class="icon">
         </a>
       </td>
